@@ -199,6 +199,7 @@ a:hover {
         max-width: 100%
     }
     .phone--android{
+      display: none;
       height: 670px;
     }
     .phone--android2{
