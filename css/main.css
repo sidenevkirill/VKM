@@ -164,7 +164,7 @@ a:hover {
     top: 22px;
     right: 8px;
     height: 100%;
-    background: url(../img/33.png) no-repeat;
+    background: url(../img/my.png) no-repeat;
     background-size: contain;
     background-position: center;
     -o-transform: translateY(calc(var(--koef) * 0.5 * 30px));
@@ -174,7 +174,7 @@ a:hover {
 .phone--android {
     top: -40px;
     right: 279px;
-    background: url(../img/44.png) no-repeat;
+    background: url(../img/rec.png) no-repeat;
     background-size: contain;
     background-position: center;
     -o-transform: translateY(calc(var(--koef) * 30px));
