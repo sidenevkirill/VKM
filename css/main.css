@@ -5,6 +5,7 @@
 
 body,
 html {
+    background: url(https://moozza.app/img/pattern.png) 0 0 repeat;
     margin: 0;
     padding: 0;
     height: 100%;
